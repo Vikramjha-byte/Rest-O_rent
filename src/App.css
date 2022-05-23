@@ -1,0 +1,11 @@
+.navbar-toggler-icon{
+    background-color: rgba(244, 244, 244, 0.466);
+}
+.toggle-nav{
+    border: none;
+}
+.toggle-nav:focus{
+    outline: 0;
+    border: none;
+    box-shadow: none;
+}
