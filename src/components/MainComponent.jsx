@@ -3,7 +3,7 @@ import DishdetailComponent from "./DishdetailComponent";
 import FooterComponent from "./FooterComponent";
 import HeaderComponent from "./HeaderComponent";
 import Menu from "./MenuComponent";
-import { Navigate, Route, Routes,withRouter } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import HomeComponent from "./HomeComponent";
 import ContactComponent from "./ContactComponent";
 import AboutComponent from "./AboutComponent";
